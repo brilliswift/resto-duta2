@@ -6,6 +6,7 @@ B --> D(Penjualan Makanan)
 D --> E[Laporan Penjualan]
 C --> F[Laporan Stok Makanan]
 
+==================================================================================
 Tema	:Sistem Informasi Manajemen Restoran Duta 2
  Ruang Lingkup
 
